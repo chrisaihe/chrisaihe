@@ -1,7 +1,6 @@
-- 👋 Hi, I’m Christopher Ikuenobe
-- 👀 I’m a Data and Business Intelligence Analyst
-- 🌱 I’m continually learning SQL using the MySQL RDBMS, Python, Advanced Excel, Tableau and Looker.
-- 💞️ I’m looking to collaborate on a project where I would be using SQL, Python and  Tableau to analyze data and come up with very insightful findings.
+- 👋 **Hello there! Welcome to my Github Profile!**
+- 👀 I’m Chris Ikuenobe and I am a Data and Business Intelligence Analyst. I graduated from University of Texas Rio Grande Valley and have my MBA from Rogers State University. I will be using github to showcase my portfolio which will comprise of my projects, courses and questions on Excel, SQL, Python, Tableau, PowerBI and Looker.
+
 - 📫 You can reach me on my cell @ 956-517-0391; my email: christopherikuenobe@gmail.com and LinkedIn @ Christopher Ikuenobe.
 
 <!---
